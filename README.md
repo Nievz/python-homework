@@ -14,8 +14,13 @@ The day and amount when losses decreased most dramatically overall
 
 #citation:
 1.https://careerkarma.com/blog/python-valueerror-invalid-literal-for-int-with-base-10/
+
 2.https://stackoverflow.com/questions/32554527/typeerror-list-indices-must-be-integers-or-slices-not-str
+
 3.https://stackoverflow.com/questions/26685679/typeerror-unsupported-operand-types-for-list-and-list
+
 4.https://stackoverflow.com/questions/18952716/valueerror-i-o-operation-on-closed-file
+
 5.https://stackoverflow.com/questions/42364690/indentationerror-expected-an-indented-block-opening-csv-file
+
 6.https://www.youtube.com/watch?v=HnwrNrMv03g&list=PLBNHcTwrlK2h-3_kPuZo597i3mMUOA0oe&index=1
